@@ -1,6 +1,6 @@
 # Forest Hedgehog Tap (gruzgame09) 12345678910
 
-1 2 3 4 5 6 7
+1 2 3 4 5 6 7 8
 
 Base App mini app on [Base](https://base.org): tap the hedgehog, batch taps onchain, check-in every 2 minutes, local leaderboard.
 
