@@ -4,6 +4,8 @@
 
 1 2 3 4 5 6 7 8 9 10
 
+1
+
 Base App mini app on [Base](https://base.org): tap the hedgehog, batch taps onchain, check-in every 2 minutes, local leaderboard.
 
 ## Environment
